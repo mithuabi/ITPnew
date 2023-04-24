@@ -1,0 +1,21 @@
+
+.form-container {
+    padding: 0 15px;
+}
+
+.top-btn-container {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+}
+
+.submit-btn-container {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.submit-btn-container button {
+    width: 150px !important;
+    height: 50px;
+}
